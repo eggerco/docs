@@ -121,5 +121,8 @@
       "facebook": "https://facebook.com/EggerCo",
       "instagram": "https://instagram.com/egger.co"
     }
+  },
+  "styling": {
+    "latex": true
   }
 }
